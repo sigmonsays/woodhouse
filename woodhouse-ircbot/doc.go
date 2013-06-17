@@ -1,0 +1,6 @@
+package skeleton
+/*
+
+Skeleton application
+
+*/

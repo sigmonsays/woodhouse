@@ -1,0 +1,11 @@
+nickname: woodhouse
+username: woodhouse
+fullname: woodhouse
+plugintimeout: 300
+syncinterval: 5
+onconnect: ""
+serveraddress: localhost:1025
+channelname: '#woodhost-testing'
+plugindir: /srv/woodhouse/plugin-scripts
+eggs:
+- I do what I want, {{.Name}}.
