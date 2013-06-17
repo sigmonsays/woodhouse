@@ -2,8 +2,8 @@ package main
 import (
     "fmt"
     "net/http"
-    "github.com/sigmonsays/woodhouse.git/plugin"
-    "github.com/sigmonsays/woodhouse.git/config"
+    "github.com/sigmonsays/woodhouse/plugin"
+    "github.com/sigmonsays/woodhouse/config"
 )
 const HelpText = `help
 --------------------------------------------

@@ -13,10 +13,10 @@ import (
     irc "github.com/fluffle/goirc/client"
     
     "launchpad.net/goyaml"
-    "github.com/sigmonsays/woodhouse.git/config"
-    "github.com/sigmonsays/woodhouse.git/plugin"
+    "github.com/sigmonsays/woodhouse/config"
+    "github.com/sigmonsays/woodhouse/plugin"
 
-    egg_plugin "github.com/sigmonsays/woodhouse.git/plugin/egg"
+    egg_plugin "github.com/sigmonsays/woodhouse/plugin/egg"
 )
 
 

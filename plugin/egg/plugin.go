@@ -2,8 +2,8 @@ package egg
 import (
     "strings"
     "fmt"
-    "gihub.com/sigmonsays/woodhouse.git/plugin"
-    "gihub.com/sigmonsays/woodhouse.git/config"
+    "github.com/sigmonsays/woodhouse/plugin"
+    "github.com/sigmonsays/woodhouse/config"
 )
 
 func New(cfg *config.BotConfig) *EggPlugin {
