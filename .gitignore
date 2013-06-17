@@ -21,4 +21,4 @@ _testmain.go
 
 *.exe
 
-/plugin/data/*.dat
+/plugin-scripts/data/*.dat
