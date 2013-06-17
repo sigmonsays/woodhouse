@@ -1,4 +1,4 @@
-skeleton application
-=============================
+woodhouse
+=========
 
-I'm really good at _______ but should never ______
+Woodhouse is an IRC bot
